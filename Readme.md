@@ -223,7 +223,7 @@ requestIdleCallback(() => {
 
 ## Advanced Patterns
 
-> This section is called “Advanced JS” — but I prefer to name it: “Whoever made this — I hope they're proud (and slightly cursed)”.
+> This section is called “Advanced JS” — but I prefer to name it: “Bunu cixardanin ***”.
 
 ---
 
